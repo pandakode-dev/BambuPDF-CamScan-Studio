@@ -18,16 +18,10 @@
 
 ## 📸 Tampilan Aplikasi (Screenshots)
 
-<img width="216" height="480" alt="Screenshot_20261018_204809" src="https://github.com/user-attachments/assets/5785fde7-0529-4a6c-99cf-fafcf234b4d9" />
-<img width="216" height="480" alt="Screenshot_20261018_204819" src="https://github.com/user-attachments/assets/5b48f209-ebf0-4669-8c43-17717655dc46" />
-<img width="216" height="480" alt="Screenshot_20261018_204826" src="https://github.com/user-attachments/assets/71635bef-f156-436b-a156-5715f98965f6" />
-<img width="216" height="480" alt="Screenshot_20261018_204834" src="https://github.com/user-attachments/assets/eef4e0fd-73dd-49e1-93a0-ea5cffffae86" />
-<img width="216" height="480" alt="Screenshot_20261018_204843" src="https://github.com/user-attachments/assets/65655959-b355-48e7-abc7-99a9732b87b1" />
-
 
 | Splash Screen | AI CamScanner & Magic Filter | Studio TTD & Stempel Kantor | KTP 2-in-1 & Pasfoto A4 | AI OCR & PDF Merger |
 | :---: | :---: | :---: | :---: | :---: |
-| *(Tarik & Lepas SS 1)* | *(Tarik & Lepas SS 2)* | *(Tarik & Lepas SS 3)* | *(Tarik & Lepas SS 4)* | *(Tarik & Lepas SS 5)* |
+| <img width="216" height="480" alt="Screenshot_20261018_204809" src="https://github.com/user-attachments/assets/5785fde7-0529-4a6c-99cf-fafcf234b4d9" /> | <img width="216" height="480" alt="Screenshot_20261018_204819" src="https://github.com/user-attachments/assets/5b48f209-ebf0-4669-8c43-17717655dc46" /> | <img width="216" height="480" alt="Screenshot_20261018_204826" src="https://github.com/user-attachments/assets/71635bef-f156-436b-a156-5715f98965f6" /> | <img width="216" height="480" alt="Screenshot_20261018_204834" src="https://github.com/user-attachments/assets/eef4e0fd-73dd-49e1-93a0-ea5cffffae86" /> | <img width="216" height="480" alt="Screenshot_20261018_204843" src="https://github.com/user-attachments/assets/65655959-b355-48e7-abc7-99a9732b87b1" /> |
 
 ---
 
