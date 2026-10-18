@@ -21,7 +21,7 @@
 
 | Splash Screen | AI CamScanner & Magic Filter | Studio TTD & Stempel Kantor | KTP 2-in-1 & Pasfoto A4 | AI OCR & PDF Merger |
 | :---: | :---: | :---: | :---: | :---: |
-| <img width="216" height="480" alt="Screenshot_20261018_205327" src="https://github.com/user-attachments/assets/9e768f91-15ae-46cd-9a5e-ed28c2e07e6e" />|  | <img width="216" height="480" alt="Screenshot_20261018_204819" src="https://github.com/user-attachments/assets/5b48f209-ebf0-4669-8c43-17717655dc46" /> | <img width="216" height="480" alt="Screenshot_20261018_204826" src="https://github.com/user-attachments/assets/71635bef-f156-436b-a156-5715f98965f6" /> | <img width="216" height="480" alt="Screenshot_20261018_204834" src="https://github.com/user-attachments/assets/eef4e0fd-73dd-49e1-93a0-ea5cffffae86" /> |
+| <img width="216" height="480" alt="Screenshot_20261018_205327" src="https://github.com/user-attachments/assets/9e768f91-15ae-46cd-9a5e-ed28c2e07e6e" />| <img width="216" height="480" alt="Screenshot_20261018_204809" src="https://github.com/user-attachments/assets/8e6e4325-73e1-4491-9fbc-2e0486cea69d" />| <img width="216" height="480" alt="Screenshot_20261018_204819" src="https://github.com/user-attachments/assets/5b48f209-ebf0-4669-8c43-17717655dc46" /> | <img width="216" height="480" alt="Screenshot_20261018_204826" src="https://github.com/user-attachments/assets/71635bef-f156-436b-a156-5715f98965f6" /> | <img width="216" height="480" alt="Screenshot_20261018_204834" src="https://github.com/user-attachments/assets/eef4e0fd-73dd-49e1-93a0-ea5cffffae86" /> |
 
 ---
 
